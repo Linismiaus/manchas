@@ -1,0 +1,15 @@
+h1{
+    color: #000a03;
+}
+p{
+    color: hsl(143, 36%, 23%);
+}
+.lacalculadora{
+    background-color: rgb(29, 102, 29);
+}
+.lapantalla{
+    background-color: rgb(160, 201, 137);
+}
+.lapantalla p{
+    color: black;
+}
